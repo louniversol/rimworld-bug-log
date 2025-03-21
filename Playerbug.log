@@ -1,0 +1,1410 @@
+Mono path[0] = 'D:/Sol/RimWorld (Win64, 1.5.4069 rev95)/RimWorldWin64_Data/Managed'
+Mono config path = 'D:/Sol/RimWorld (Win64, 1.5.4069 rev95)/MonoBleedingEdge/etc'
+Initialize engine version: 2019.4.30f1 (e8c891080a1f)
+[Subsystems] Discovering subsystems at path D:/Sol/RimWorld (Win64, 1.5.4069 rev95)/RimWorldWin64_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1060 6GB (ID=0x1b83)
+    Vendor:   
+    VRAM:     6029 MB
+    Driver:   31.0.15.5222
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.099 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.700300 ms
+Command line arguments: -savedatafolder=C:\Users\@@\AppData\LocalLow\Ludeon Studios\RimWorld by Ludeon Studios
+[Steamworks.NET] SteamAPI.Init() failed. Possible causes: Steam client not running, launched from outside Steam without steam_appid.txt in place, running with different privileges than Steam client (e.g. "as administrator") 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+RimWorld 1.5.4069 rev95
+Save data folder overridden to C:\Users\@@\AppData\LocalLow\Ludeon Studios\RimWorld by Ludeon Studios
+Mod NewRatkinPlus is missing packageId in About.xml! (example: <packageId>AuthorName.ModName.Specific</packageId>) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Fallback handler could not load library D:/Sol/RimWorld (Win64, 1.5.4069 rev95)/RimWorldWin64_Data/Mono/data-0000019C0AF8E300.dll
+Fallback handler could not load library D:/Sol/RimWorld (Win64, 1.5.4069 rev95)/RimWorldWin64_Data/Mono/data-0000019C0AF6B250.dll
+!! [ViViRace] race patch complete
+!! [ViViRace] arcane plant patch complete
+[HugsLib] version 11.0.3
+[HugsLib] early-initializing AllowTool
+Fallback handler could not load library D:/Sol/RimWorld (Win64, 1.5.4069 rev95)/RimWorldWin64_Data/Mono/data-0000019C0FA15C10.dll
+Fallback handler could not load library D:/Sol/RimWorld (Win64, 1.5.4069 rev95)/RimWorldWin64_Data/Mono/data-0000019C0CE68010.dll
+Fallback handler could not load library D:/Sol/RimWorld (Win64, 1.5.4069 rev95)/RimWorldWin64_Data/Mono/data-0000019C0F6FF010.dll
+Fallback handler could not load library D:/Sol/RimWorld (Win64, 1.5.4069 rev95)/RimWorldWin64_Data/Mono/data-0000019C0CB80020.dll
+Fallback handler could not load library D:/Sol/RimWorld (Win64, 1.5.4069 rev95)/RimWorldWin64_Data/Mono/data-0000019C0CB58020.dll
+Fallback handler could not load library D:/Sol/RimWorld (Win64, 1.5.4069 rev95)/RimWorldWin64_Data/Mono/data-0000019C0CD5B020.dll
+Fallback handler could not load library D:/Sol/RimWorld (Win64, 1.5.4069 rev95)/RimWorldWin64_Data/Mono/data-0000019C0FDED040.dll
+Tried to use an uninitialized DefOf of type ThingDefOf. DefOfs are initialized right after all defs all loaded. Uninitialized DefOfs will return only nulls. (hint: don't use DefOfs as default field values in Defs, try to resolve them in ResolveReferences() instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+FactionCustomizer is successfully initialized!
+1.5.8874 ::
+1.0.8856 ::
+1.3.8874 ::
+[Interaction Bubbles v3.0] Initialized
+[RimHUD v1.15.3] Initialized
+Parsed 1.5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 1.5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 1.5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 0.5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 1.5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named null found to give to Verse.DamageDef BOSS_RQ_Damage_Z_e (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.PawnRenderNodeTagDef named AnimalPenis (wanter=animationParts) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.PawnRenderNodeTagDef named AnimalPenis (wanter=animationParts) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.PawnRenderNodeTagDef named AnimalPenis (wanter=animationParts) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.PawnRenderNodeTagDef named AnimalPenis (wanter=animationParts) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.PawnRenderNodeTagDef named AnimalPenis (wanter=animationParts) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.PawnRenderNodeTagDef named AnimalPenis (wanter=animationParts) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.PawnRenderNodeTagDef named AnimalPenis (wanter=animationParts) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.PawnRenderNodeTagDef named AnimalPenis (wanter=animationParts) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.PawnRenderNodeTagDef named AnimalPenis (wanter=animationParts) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.PawnRenderNodeTagDef named AnimalPenis (wanter=animationParts) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Failed to load key/value pair: , System.Xml.XmlElement 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Failed to load key/value pair: , System.Xml.XmlElement 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Failed to load key/value pair: , System.Xml.XmlElement 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Failed to load key/value pair: , System.Xml.XmlElement 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Failed to load key/value pair: , System.Xml.XmlElement 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Failed to load key/value pair: , System.Xml.XmlElement 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Failed to load key/value pair: , System.Xml.XmlElement 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Failed to load key/value pair: , System.Xml.XmlElement 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Failed to load key/value pair: , System.Xml.XmlElement 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Failed to load key/value pair: , System.Xml.XmlElement 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Failed to find RimWorld.MemeDef named Hucow. There are 39 defs of this type loaded. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+BodyDef VV_TitanicHornet has BodyPartRecord of Shell whose children have more or equal coverage than 100% (102.60%) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+BodyDef Metalhorror has BodyPartRecord of MetalhorrorTorso whose children have more or equal coverage than 100% (101.60%) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+BodyDef DroidBody has BodyPartRecord of Frame whose children have more or equal coverage than 100% (103.40%) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+BodyDef WardroidBody has BodyPartRecord of Frame whose children have more or equal coverage than 100% (103.60%) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+BodyDef HAR_Idearn_Body has BodyPartRecord of Torso whose children have more or equal coverage than 100% (103.60%) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+BodyDef BS_SnakeHuman has BodyPartRecord of Torso whose children have more or equal coverage than 100% (102.70%) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+BodyDef BS_Marlith has BodyPartRecord of Torso whose children have more or equal coverage than 100% (101.80%) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Translation data for language Korean has 46682 errors. Generate translation report for more info. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RaceExt] Restriction Patch Succeeded
+[RaceExt] Patch Completed
+[AllMemoriesFade]: Changed 830 length-offsets by 50%
+[AllMemoriesFade]: Changed 830 mood-offsets by 73%
+Alien race successfully completed 250 patches with harmony.
+Androids: Fixing surgery recipes for Droids.
+Androids: Fixing belts whitelist for AlienRace.ThingDef_AlienRace with defName='ChjBattleDroid'.
+[TrueTerrainColors v1.12.14] Loaded cached true colors for 463 terrain defs from file.
+Could not load UnityEngine.Texture2D at UI/Icons/lock in any active mod or in base resources. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Expectations Modifier] Expectations Modifier Harmony Patches Loaded.
+PickUpAndHaul v1.1.2¼ welcomes you to RimWorld with pointless logspam.
+checking Pawn_JobTracker.TryFindAndStartJob for other harmony patches
+could not find original method through ReflectedType or TypeByName(Pawn_JobTracker), continuing
+checking Pawn.TickRare for other harmony patches
+checking WorkGiver_DoBill.StartOrResumeBillJob for other harmony patches
+could not find original method through ReflectedType or TypeByName(WorkGiver_DoBill), continuing
+TKS_PriorityTreatment: Patching finished
+# Real Faction Guest - Initiation Complete
+[SRTS Expanded] Compatibility with Save our Ship 2 and Combat Extended are temporarily disabled at the moment. SoS2 compatibility will happen soon(ish), CE compatibility will not. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[SizedApparel] start
+[SizedApparel] RimJobWorld Found
+[SizedApparel] RimJobWorld Patched
+[SizedApparel] RimNudeWorld Patch canceled
+[SizedApparel] Dubs Apparel Tweaks Patch canceled
+[Geological Landforms v1.6.10] Found landform data in the following mods: Geological Landforms, Biome Transitions
+[Geological Landforms v1.6.10] Loaded 37 landforms of which 0 are edited and 0 are custom.
+Type UtilModSettings probably needs a StaticConstructorOnStartup attribute, because it has a field ButtonBack of type Texture2D. All assets must be loaded in the main thread. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Type NL_SelectPartWindow probably needs a StaticConstructorOnStartup attribute, because it has a field ButtonPlus of type Texture2D. All assets must be loaded in the main thread. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+MVCF successfully applied 55 patches
+CharacterEditor v1.5.9 initializing...
+updating labels for korean...
+loading pawn slot content from file...
+character editor instance created
+checking editor settings...
+bodysizes genes are active
+CharacterEditor v1.5.9 ...done
+[AllowTool] Applied compatibility patch for "Pick Up And Haul"
+[HugsLib] initializing latta.andh, DefensivePositions, Hospitality, MapReroll, StackXXL, RJW, Milk
+[HugsLib][warn] Missing enum setting labels for enum DefensivePositions.DefensivePositionsManager+ShiftKeyMode 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+FactionDef MF_Corporation must have at least one pawnGroupMaker with kindDef 'Peaceful', or 'permanentEnemy', 'isPlayer' or 'hidden' should be set to true. Otherwise no guests from this faction will arrive. This is a misconfiguration in The Corporation - Mort's Factions. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+FactionDef MF_CyberPunks must have at least one pawnGroupMaker with kindDef 'Peaceful', or 'permanentEnemy', 'isPlayer' or 'hidden' should be set to true. Otherwise no guests from this faction will arrive. This is a misconfiguration in The Corporation - Mort's Factions. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+FactionDef VFEP_Mercenaries must have at least one pawnGroupMaker with kindDef 'Peaceful', or 'permanentEnemy', 'isPlayer' or 'hidden' should be set to true. Otherwise no guests from this faction will arrive. This is a misconfiguration in Vanilla Factions Expanded - Pirates. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[StackXXL] Loaded
+[VirtualClassOnLoad] Virtual Loadtime Class Starting!
+[Expectations Modifier] Modifying All Wealth Expectations Now!
+[Expectations Modifier] Successfully Modified All Wealth Expectations!
+[Expectations Modifier] Modifying All Expectations Mood Effects Now!
+[Expectations Modifier ERROR]: Failed to Modify 1 Expectations Mood Effects! 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Expectations Modifier] All Undesired Expectations Removed!
+[VirtualClassOnLoad] Virtual Class Ended with 1 PostFixes.
+  RimWorld.Citrus.ExpectationsModifier
+Starting patches: 2429 - 5/14/2024 8:51:09 PM
+CE is trying to create default parameter lists ...
+creating default parameter list for genes...
+1197 default entities for genes created
+creating default parameter list for objects...
+3955 default entities for objects created
+creating default parameter list for turrets...
+64 default entities for turrets created
+...lists created
+CE is trying to apply modified parameters...
+no modifications for genes
+Apparel_ArmorMarineHelmetPrestige modification loaded
+Bow_Recurve modification loaded
+Apparel_CollarShirt modification loaded
+MeleeWeapon_Warhammer modification loaded
+Apparel_FlakPants modification loaded
+no modifications for lifestages
+...done
+Finished transpiling 2429 methods - 5/14/2024 8:51:55 PM
+Could not get new name (first rule pack: NamerDeityChristian) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error while generating pawn. Rethrowing. Exception: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref DBD7A092]
+ at Verse.GridsUtility.GetThingList (Verse.IntVec3 c, Verse.Map map) [0x00000] in <957a20e0be784a65bc32cf449445b937>:0 
+ at RimWorld.FilthMaker.TryMakeFilth (Verse.IntVec3 c, Verse.Map map, Verse.ThingDef filthDef, System.Collections.Generic.IEnumerable`1[T] sources, System.Boolean shouldPropagate, RimWorld.Filth& outFilth, RimWorld.FilthSourceFlags additionalFlags) [0x0000d] in <957a20e0be784a65bc32cf449445b937>:0 
+ at RimWorld.FilthMaker.TryMakeFilth (Verse.IntVec3 c, Verse.Map map, Verse.ThingDef filthDef, System.Int32 count, RimWorld.FilthSourceFlags additionalFlags, System.Boolean shouldPropagate) [0x00006] in <957a20e0be784a65bc32cf449445b937>:0 
+ at Kijin3.CompKijinAbyssalBlade.CodeFor (Verse.Pawn pawn) [0x00030] in <c0b6cde5b19a42c6b15aa02dbe6a5368>:0 
+ at RimWorld.CompBiocodable.Notify_Equipped (Verse.Pawn pawn) [0x00015] in <957a20e0be784a65bc32cf449445b937>:0 
+ at Kijin3.CompKijinAbyssalBlade.Notify_Equipped (Verse.Pawn pawn) [0x00015] in <c0b6cde5b19a42c6b15aa02dbe6a5368>:0 
+ at Verse.ThingWithComps.Notify_Equipped (Verse.Pawn pawn) [0x0001f] in <957a20e0be784a65bc32cf449445b937>:0 
+ at Verse.Pawn_EquipmentTracker.Notify_EquipmentAdded (Verse.ThingWithComps eq) [0x0007a] in <957a20e0be784a65bc32cf449445b937>:0 
+     - TRANSPILER PerformanceOptimizer.Main: IEnumerable`1 PerformanceOptimizer.Optimization_FasterGetCompReplacement:Transpiler(IEnumerable`1 instructions, MethodBase method)
+     - PREFIX VanillaExpanded.VFEA: Void VFEAncients.PowerWorker_WeaponRange:ModifyRanges(ThingWithComps eq, Pawn_EquipmentTracker __instance)
+     - POSTFIX legodude17.mvcf: Void MVCF.PatchSets.Trackers.PatchSet_Equipment:EquipmentAdded_Postfix(ThingWithComps eq, Pawn_EquipmentTracker __instance)
+ at Verse.ThingOwner.NotifyAdded (Verse.Thing item) [0x00144] in <957a20e0be784a65bc32cf449445b937>:0 
+ at Verse.ThingOwner`1[T].NotifyAdded (Verse.Thing item) [0x00020] in <957a20e0be784a65bc32cf449445b937>:0 
+ at Verse.ThingOwner`1[T].TryAdd (Verse.Thing item, System.Boolean canMergeWithExistingStacks) [0x00214] in <957a20e0be784a65bc32cf449445b937>:0 
+     - PREFIX Cabbage.RimCities: Void Cities.ThingOwner_TryAdd:Prefix(ThingOwner`1& __instance, Thing item)
+     - POSTFIX net.avilmask.rimworld.mod.CommonSense: Void CommonSense.ThingOwnerThing_TryAdd_CommonSensePatch:Postfix(ThingOwner`1 __instance, Boolean __result, Thing item)
+ at Verse.Pawn_EquipmentTracker.AddEquipment (Verse.ThingWithComps newEq) [0x00064] in <957a20e0be784a65bc32cf449445b937>:0 
+     - POSTFIX OskarPotocki.VFECore: Void VFECore.AddEquipment_Patch:Postfix(Pawn_EquipmentTracker __instance, ThingWithComps& newEq)
+ at RimWorld.PawnWeaponGenerator.TryGenerateWeaponFor (Verse.Pawn pawn, Verse.PawnGenerationRequest request) [0x00364] in <957a20e0be784a65bc32cf449445b937>:0 
+     - TRANSPILER PerformanceOptimizer.Main: IEnumerable`1 PerformanceOptimizer.Optimization_FasterGetCompReplacement:Transpiler(IEnumerable`1 instructions, MethodBase method)
+     - PREFIX rimworld.erdelf.alien_race.main: Void AlienRace.HarmonyPatches:TryGenerateWeaponForPrefix(Pawn pawn)
+     - POSTFIX rimworld.erdelf.alien_race.main: Void AlienRace.HarmonyPatches:TryGenerateWeaponForPostfix()
+ at Verse.PawnGenerator.GenerateGearFor (Verse.Pawn pawn, Verse.PawnGenerationRequest request) [0x0001d] in <957a20e0be784a65bc32cf449445b937>:0 
+     - POSTFIX OskarPotocki.VFECore: Void VFECore.Patch_PawnGenerator+GenerateGearFor:Postfix(Pawn pawn)
+     - POSTFIX PeteTimesSix.SimpleSidearms: Void PeteTimesSix.SimpleSidearms.Intercepts.PawnGenerator_GenerateGearFor_Postfix:GenerateGearFor(Pawn pawn, PawnGenerationRequest request)
+     - POSTFIX rimworld.erdelf.alien_race.main: Void AlienRace.HarmonyPatches:GenerateGearForPostfix(Pawn pawn)
+ at Verse.PawnGenerator.TryGenerateNewPawnInternal (Verse.PawnGenerationRequest& request, System.String& error, System.Boolean ignoreScenarioRequirements, System.Boolean ignoreValidator) [0x00e56] in <957a20e0be784a65bc32cf449445b937>:0 
+     - TRANSPILER VFEEmpire.Mod: IEnumerable`1 VFEEmpire.HarmonyPatches.Patch_PawnGenerator:Transpiler(IEnumerable`1 instructions)
+     - TRANSPILER rimworld.erdelf.alien_race.main: IEnumerable`1 AlienRace.HarmonyPatches:TryGenerateNewPawnInternalTranspiler(IEnumerable`1 instructions)
+     - PREFIX ChJees.Androids: Boolean Androids.HarmonyPatches:Patch_PawnGenerator_TryGenerateNewPawnInternal(Pawn& __result, PawnGenerationRequest& request, String& error)
+     - POSTFIX VanillaExpanded.VFEA: Void VFEAncients.HarmonyPatches.PowerPatches:AddPowers(Pawn __result, PawnGenerationRequest request)
+     - POSTFIX ChJees.Androids: Void Androids.HarmonyPatches:Patch_PawnGenerator_TryGenerateNewPawnInternal_Post(Pawn& __result)
+ at Verse.PawnGenerator.GenerateNewPawnInternal (Verse.PawnGenerationRequest& request) [0x000c1] in <957a20e0be784a65bc32cf449445b937>:0 
+     - PREFIX rjw: Void rjw.Patch_PawnGenerator:Generate_Nymph(PawnGenerationRequest& request)
+     - POSTFIX OskarPotocki.VFECore: Void VFECore.Abilities.PawnGen_Patch:Postfix(Pawn __result)
+     - POSTFIX rjw: Void rjw.Patch_PawnGenerator:Fix_Nymph(PawnGenerationRequest& request, Pawn& __result)
+     - POSTFIX rjw: Void rjw.Patch_PawnGenerator:Sexualize_GenerateNewPawnInternal(PawnGenerationRequest& request, Pawn& __result)
+     - POSTFIX rjw: Void rjw.Patch_PawnGenerator:Fix_Newborn_styles(PawnGenerationRequest& request, Pawn& __result)
+ at Verse.PawnGenerator.GenerateOrRedressPawnInternal (Verse.PawnGenerationRequest request) [0x00136] in <957a20e0be784a65bc32cf449445b937>:0 
+ at Verse.PawnGenerator.GeneratePawn (Verse.PawnGenerationRequest request) [0x00059] in <957a20e0be784a65bc32cf449445b937>:0 
+     - PREFIX raceQuestPawn: Void raceQuestPawn.patch_PawnGenerator_GeneratePawn:Prefix(PawnGenerationRequest& request)
+     - PREFIX rimworld.gguake.rpef: Boolean RPEF.HarmonyPatches:PawnGenerator_GeneratePawn_Prefix(PawnGenerationRequest& request)
+     - PREFIX rimworld.erdelf.alien_race.main: Void AlienRace.HarmonyPatches:GeneratePawnPrefix(PawnGenerationRequest& request)
+     - POSTFIX Neronix17.TabulaRasa.RimWorld: Void TabulaRasa.Patch_PawnGenerator_GeneratePawn:Postfix(PawnGenerationRequest request, Pawn __result)
+     - POSTFIX rimworld.erdelf.alien_race.main: Void AlienRace.HarmonyPatches:GeneratePawnPostfix(Pawn __result)
+     - POSTFIX Cabbage.RimCities: Void Cities.PawnGenerator_GeneratePawn:Postfix(Pawn& __result)
+     - POSTFIX VFEPirates.Mod: Void VFEPirates.PawnGenerator_GeneratePawn_Patch:Postfix(Pawn __result) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 9A3DA243]
+ at Verse.GridsUtility.GetThingList (Verse.IntVec3 c, Verse.Map map) [0x00000] in <957a20e0be784a65bc32cf449445b937>:0 
+ at RimWorld.FilthMaker.TryMakeFilth (Verse.IntVec3 c, Verse.Map map, Verse.ThingDef filthDef, System.Collections.Generic.IEnumerable`1[T] sources, System.Boolean shouldPropagate, RimWorld.Filth& outFilth, RimWorld.FilthSourceFlags additionalFlags) [0x0000d] in <957a20e0be784a65bc32cf449445b937>:0 
+ at RimWorld.FilthMaker.TryMakeFilth (Verse.IntVec3 c, Verse.Map map, Verse.ThingDef filthDef, System.Int32 count, RimWorld.FilthSourceFlags additionalFlags, System.Boolean shouldPropagate) [0x00006] in <957a20e0be784a65bc32cf449445b937>:0 
+ at Kijin3.CompKijinAbyssalBlade.CodeFor (Verse.Pawn pawn) [0x00030] in <c0b6cde5b19a42c6b15aa02dbe6a5368>:0 
+ at RimWorld.CompBiocodable.Notify_Equipped (Verse.Pawn pawn) [0x00015] in <957a20e0be784a65bc32cf449445b937>:0 
+ at Kijin3.CompKijinAbyssalBlade.Notify_Equipped (Verse.Pawn pawn) [0x00015] in <c0b6cde5b19a42c6b15aa02dbe6a5368>:0 
+ at Verse.ThingWithComps.Notify_Equipped (Verse.Pawn pawn) [0x0001f] in <957a20e0be784a65bc32cf449445b937>:0 
+ at Verse.Pawn_EquipmentTracker.Notify_EquipmentAdded (Verse.ThingWithComps eq) [0x0007a] in <957a20e0be784a65bc32cf449445b937>:0 
+     - TRANSPILER PerformanceOptimizer.Main: IEnumerable`1 PerformanceOptimizer.Optimization_FasterGetCompReplacement:Transpiler(IEnumerable`1 instructions, MethodBase method)
+     - PREFIX VanillaExpanded.VFEA: Void VFEAncients.PowerWorker_WeaponRange:ModifyRanges(ThingWithComps eq, Pawn_EquipmentTracker __instance)
+     - POSTFIX legodude17.mvcf: Void MVCF.PatchSets.Trackers.PatchSet_Equipment:EquipmentAdded_Postfix(ThingWithComps eq, Pawn_EquipmentTracker __instance)
+ at Verse.ThingOwner.NotifyAdded (Verse.Thing item) [0x00144] in <957a20e0be784a65bc32cf449445b937>:0 
+ at Verse.ThingOwner`1[T].NotifyAdded (Verse.Thing item) [0x00020] in <957a20e0be784a65bc32cf449445b937>:0 
+ at Verse.ThingOwner`1[T].TryAdd (Verse.Thing item, System.Boolean canMergeWithExistingStacks) [0x00214] in <957a20e0be784a65bc32cf449445b937>:0 
+     - PREFIX Cabbage.RimCities: Void Cities.ThingOwner_TryAdd:Prefix(ThingOwner`1& __instance, Thing item)
+     - POSTFIX net.avilmask.rimworld.mod.CommonSense: Void CommonSense.ThingOwnerThing_TryAdd_CommonSensePatch:Postfix(ThingOwner`1 __instance, Boolean __result, Thing item)
+ at Verse.Pawn_EquipmentTracker.AddEquipment (Verse.ThingWithComps newEq) [0x00064] in <957a20e0be784a65bc32cf449445b937>:0 
+     - POSTFIX OskarPotocki.VFECore: Void VFECore.AddEquipment_Patch:Postfix(Pawn_EquipmentTracker __instance, ThingWithComps& newEq)
+ at RimWorld.PawnWeaponGenerator.TryGenerateWeaponFor (Verse.Pawn pawn, Verse.PawnGenerationRequest request) [0x00364] in <957a20e0be784a65bc32cf449445b937>:0 
+     - TRANSPILER PerformanceOptimizer.Main: IEnumerable`1 PerformanceOptimizer.Optimization_FasterGetCompReplacement:Transpiler(IEnumerable`1 instructions, MethodBase method)
+     - PREFIX rimworld.erdelf.alien_race.main: Void AlienRace.HarmonyPatches:TryGenerateWeaponForPrefix(Pawn pawn)
+     - POSTFIX rimworld.erdelf.alien_race.main: Void AlienRace.HarmonyPatches:TryGenerateWeaponForPostfix()
+ at Verse.PawnGenerator.GenerateGearFor (Verse.Pawn pawn, Verse.PawnGenerationRequest request) [0x0001d] in <957a20e0be784a65bc32cf449445b937>:0 
+     - POSTFIX OskarPotocki.VFECore: Void VFECore.Patch_PawnGenerator+GenerateGearFor:Postfix(Pawn pawn)
+     - POSTFIX PeteTimesSix.SimpleSidearms: Void PeteTimesSix.SimpleSidearms.Intercepts.PawnGenerator_GenerateGearFor_Postfix:GenerateGearFor(Pawn pawn, PawnGenerationRequest request)
+     - POSTFIX rimworld.erdelf.alien_race.main: Void AlienRace.HarmonyPatches:GenerateGearForPostfix(Pawn pawn)
+ at Verse.PawnGenerator.TryGenerateNewPawnInternal (Verse.PawnGenerationRequest& request, System.String& error, System.Boolean ignoreScenarioRequirements, System.Boolean ignoreValidator) [0x00e56] in <957a20e0be784a65bc32cf449445b937>:0 
+     - TRANSPILER VFEEmpire.Mod: IEnumerable`1 VFEEmpire.HarmonyPatches.Patch_PawnGenerator:Transpiler(IEnumerable`1 instructions)
+     - TRANSPILER rimworld.erdelf.alien_race.main: IEnumerable`1 AlienRace.HarmonyPatches:TryGenerateNewPawnInternalTranspiler(IEnumerable`1 instructions)
+     - PREFIX ChJees.Androids: Boolean Androids.HarmonyPatches:Patch_PawnGenerator_TryGenerateNewPawnInternal(Pawn& __result, PawnGenerationRequest& request, String& error)
+     - POSTFIX VanillaExpanded.VFEA: Void VFEAncients.HarmonyPatches.PowerPatches:AddPowers(Pawn __result, PawnGenerationRequest request)
+     - POSTFIX ChJees.Androids: Void Androids.HarmonyPatches:Patch_PawnGenerator_TryGenerateNewPawnInternal_Post(Pawn& __result)
+ at Verse.PawnGenerator.GenerateNewPawnInternal (Verse.PawnGenerationRequest& request) [0x000c1] in <957a20e0be784a65bc32cf449445b937>:0 
+     - PREFIX rjw: Void rjw.Patch_PawnGenerator:Generate_Nymph(PawnGenerationRequest& request)
+     - POSTFIX OskarPotocki.VFECore: Void VFECore.Abilities.PawnGen_Patch:Postfix(Pawn __result)
+     - POSTFIX rjw: Void rjw.Patch_PawnGenerator:Fix_Nymph(PawnGenerationRequest& request, Pawn& __result)
+     - POSTFIX rjw: Void rjw.Patch_PawnGenerator:Sexualize_GenerateNewPawnInternal(PawnGenerationRequest& request, Pawn& __result)
+     - POSTFIX rjw: Void rjw.Patch_PawnGenerator:Fix_Newborn_styles(PawnGenerationRequest& request, Pawn& __result)
+ at Verse.PawnGenerator.GenerateOrRedressPawnInternal (Verse.PawnGenerationRequest request) [0x00136] in <957a20e0be784a65bc32cf449445b937>:0 
+ at Verse.PawnGenerator.GeneratePawn (Verse.PawnGenerationRequest request) [0x001e9] in <957a20e0be784a65bc32cf449445b937>:0 
+     - PREFIX raceQuestPawn: Void raceQuestPawn.patch_PawnGenerator_GeneratePawn:Prefix(PawnGenerationRequest& request)
+     - PREFIX rimworld.gguake.rpef: Boolean RPEF.HarmonyPatches:PawnGenerator_GeneratePawn_Prefix(PawnGenerationRequest& request)
+     - PREFIX rimworld.erdelf.alien_race.main: Void AlienRace.HarmonyPatches:GeneratePawnPrefix(PawnGenerationRequest& request)
+     - POSTFIX Neronix17.TabulaRasa.RimWorld: Void TabulaRasa.Patch_PawnGenerator_GeneratePawn:Postfix(PawnGenerationRequest request, Pawn __result)
+     - POSTFIX rimworld.erdelf.alien_race.main: Void AlienRace.HarmonyPatches:GeneratePawnPostfix(Pawn __result)
+     - POSTFIX Cabbage.RimCities: Void Cities.PawnGenerator_GeneratePawn:Postfix(Pawn& __result)
+     - POSTFIX VFEPirates.Mod: Void VFEPirates.PawnGenerator_GeneratePawn_Patch:Postfix(Pawn __result)
+ at VFEEmpire.WorldComponent_Hierarchy.MakePawnFor (RimWorld.RoyalTitleDef title) [0x0009b] in <37281f466285441998820770cca6ae31>:0 
+ at VFEEmpire.WorldComponent_Hierarchy.InitializeTitles () [0x00022] in <37281f466285441998820770cca6ae31>:0 
+ at VFEEmpire.WorldComponent_Hierarchy.FinalizeInit () [0x00021] in <37281f466285441998820770cca6ae31>:0 
+ at RimWorld.Planet.WorldComponentUtility.FinalizeInit (RimWorld.Planet.World world) [0x0001b] in <957a20e0be784a65bc32cf449445b937>:0 
+     - PREFIX PerformanceOptimizer.Main: Void PerformanceOptimizer.PerformanceOptimizerMod:ResetStaticData() 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 5)
+
+Unloading 797 unused Assets to reduce memory usage. Loaded Objects now: 63326.
+Total: 1074.130700 ms (FindLiveObjects: 6.704200 ms CreateObjectMapping: 5.595800 ms MarkObjects: 1060.183900 ms  DeleteObjects: 1.646600 ms)
+
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+head graphic path=Things/Pawn/Humanlike/Heads/Male/Male_Narrow_Normal
+heads path=Things/Pawn/Humanlike/Heads/Male
+genderized  subpath=Things/Pawn/Humanlike/Heads/Female
+non-genderized path=Things/Pawn/Humanlike/Heads/
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+Grammar unresolvable. Root 'r_root'
+
+GRAMMAR RESOLUTION TRACE
+1    r_root → [RULE]
+2      RULE → In fact, the guerrilla captain and [PAWN_nameDef's] partners did not agree to [PAWN_nameDef] joining the guerrilla, and it was not right to let an experienced doctor like [PAWN_nameDef] go to the dangerous front line; but [PAWN_nameDef] herself insisted on going, and in her words "How can we let the wounded come so far to find a doctor?". After several red-faced arguments [PAWN_nameDef] won over the people who came to dissuade her and joined the guerrilla as she wished.
+         PAWN_nameDef's → UNRESOLVABLE
+3        PAWN_nameDef → <color=#D09B61FF>루이스</color>
+3        PAWN_nameDef → <color=#D09B61FF>루이스</color>
+3        PAWN_nameDef → <color=#D09B61FF>루이스</color>
+3        PAWN_nameDef → <color=#D09B61FF>루이스</color>
+       RULE → UNRESOLVABLE
+     r_root → UNRESOLVABLE
+
+INCLUDES
+DynamicWrapper
+
+CUSTOM RULES
+■RULE → In fact, the guerrilla captain and [PAWN_nameDef's] partners did not agree to [PAWN_nameDef] joining the guerrilla, and it was not right to let an experienced doctor like [PAWN_nameDef] go to the dangerous front line; but [PAWN_nameDef] herself insisted on going, and in her words "How can we let the wounded come so far to find a doctor?". After several red-faced arguments [PAWN_nameDef] won over the people who came to dissuade her and joined the guerrilla as she wished.
+■PAWN_nameFull → <color=#D09B61FF>루이스 솔</color>
+■PAWN_label → <color=#D09B61FF>루이스</color>
+■PAWN_definite → <color=#D09B61FF>루이스</color>
+■PAWN_nameDef → <color=#D09B61FF>루이스</color>
+■PAWN_indefinite → <color=#D09B61FF>루이스</color>
+■PAWN_nameIndef → <color=#D09B61FF>루이스</color>
+■PAWN_pronoun → 그
+■PAWN_possessive → 그의
+■PAWN_objective → 그를
+■PAWN_factionName → <color=#00BCD8FF>외부인들</color>
+■PAWN_kind → 정착민
+■PAWN_kindPlural → 정착민
+■PAWN_title → 상담사
+■PAWN_titleIndef → 상담사
+■PAWN_titleDef → 상담사
+■PAWN_age → 20
+■PAWN_chronologicalAge → 77777
+■PAWN_relationInfo → 
+■PAWN_alienRace → 인간
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Failed to resolve text. Trying again with English. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+Reached max messages limit. Stopping logging to avoid spam. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+in
+Setting up 6 worker threads for Enlighten.
+  Thread -> id: 48f8 -> priority: 1 
+  Thread -> id: 6470 -> priority: 1 
+  Thread -> id: 509c -> priority: 1 
+  Thread -> id: 6714 -> priority: 1 
+  Thread -> id: 65a4 -> priority: 1 
+  Thread -> id: 6554 -> priority: 1 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+Unloading 718 unused Assets to reduce memory usage. Loaded Objects now: 65976.
+Total: 1180.943900 ms (FindLiveObjects: 7.904100 ms CreateObjectMapping: 6.156000 ms MarkObjects: 1163.277900 ms  DeleteObjects: 3.605400 ms)
+
+Setting up 6 worker threads for Enlighten.
+  Thread -> id: 68d8 -> priority: 1 
+  Thread -> id: bf8 -> priority: 1 
+  Thread -> id: 3180 -> priority: 1 
+  Thread -> id: 579c -> priority: 1 
+  Thread -> id: 67e8 -> priority: 1 
+  Thread -> id: 33f4 -> priority: 1 
